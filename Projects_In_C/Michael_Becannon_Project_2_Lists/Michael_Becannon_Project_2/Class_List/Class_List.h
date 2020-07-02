@@ -2,7 +2,7 @@
 #pragma once
 #include<iostream>
 using namespace std;
-template <typename T> class Class_List
+template <typename T> class Class_List//This project purely demonstrates my ability to create data structures using template classes
 {
 private:
 	struct node
