@@ -1,3 +1,7 @@
+/*
+This code will extract the data line by line from the excel file named 'Scores.csv" which has been preformatted
+to make this code functional; each new student is separated by every 5th new line character 
+*/
 #include <fstream>
 #include <iostream>
 #include <sstream>
