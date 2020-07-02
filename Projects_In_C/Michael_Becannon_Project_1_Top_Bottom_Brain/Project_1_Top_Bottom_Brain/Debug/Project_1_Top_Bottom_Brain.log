@@ -1,0 +1,6 @@
+﻿  Source.cpp
+d:\egr 3310\project_1_top_bottom_brain\project_1_top_bottom_brain\source.cpp(149): warning C4804: '<=': unsafe use of type 'bool' in operation
+d:\egr 3310\project_1_top_bottom_brain\project_1_top_bottom_brain\source.cpp(151): warning C4804: '<=': unsafe use of type 'bool' in operation
+d:\egr 3310\project_1_top_bottom_brain\project_1_top_bottom_brain\source.cpp(156): warning C4804: '<=': unsafe use of type 'bool' in operation
+d:\egr 3310\project_1_top_bottom_brain\project_1_top_bottom_brain\source.cpp(158): warning C4804: '<=': unsafe use of type 'bool' in operation
+  Project_1_Top_Bottom_Brain.vcxproj -> D:\EGR 3310\Project_1_Top_Bottom_Brain\Debug\Project_1_Top_Bottom_Brain.exe
