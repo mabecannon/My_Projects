@@ -1,5 +1,6 @@
 // Class_List.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+//This project will take an infix expression: 1+2 and turn it into postfix expression: 12+ and evaluate it
+//alternatively, you can turn any postfix expression into an infix expression 
 #include <iostream>
 #include "Stack.h"
 using namespace std;
