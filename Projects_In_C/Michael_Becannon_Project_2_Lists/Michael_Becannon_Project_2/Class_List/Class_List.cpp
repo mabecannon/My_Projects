@@ -1,12 +1,11 @@
 // Class_List.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 #include <iostream>
-#include "Class_List.h"
+#include "Class_List.h"//the more interesting of the two
 using namespace std;
 
 /*
-Because template class is declared in .h file, member functions cannot be defined here,
-they are already defined the template class
+This project is a simple gpa calculator using my own custom list which can store any primitive or object
 */
 
 class Course
