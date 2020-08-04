@@ -1,5 +1,5 @@
-INCLUDE <P18F4321.INC>
-	        CONFIG    OSC=INTIO2; USING THE PROGRAM ON PAGE 254 of 1st edition book
+INCLUDE <P18F4321.INC>;this program performs the ADC voltage conversion and uses the binary result to form a whole number part and a fractional part of the analog voltage using ADCON
+	        CONFIG    OSC=INTIO2
 	        CONFIG     WDT=OFF;
 	        CONFIG     LVP=OFF;
 	        CONFIG     BOR=OFF;
