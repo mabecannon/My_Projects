@@ -1,5 +1,6 @@
-;Example 11.5 from book
-INCLUDE <P18F4321.INC>
+
+INCLUDE <P18F4321.INC>; This program demonstrates the Analog to Digital Conversion function on the PIC18F4321 by reading the voltage from a potentiometer
+		      ; and converting it into an 8-bit number equivalent, which can then be converted into decimal numbers and read on 7-segment display as an Analog voltage
 			ORG		0x000
 			GOTO 	MAIN
 			ORG 	0x0008 			; Program will go to CHECK_INT at interrupt
