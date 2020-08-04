@@ -1,4 +1,4 @@
-INCLUDE <P18F4321.INC>
+INCLUDE <P18F4321.INC>; this program uses the PIC18F4321 library and is for adding 3 8-bit numbers 
 
 COUNT EQU 0x10
 CARRY EQU 0x12
