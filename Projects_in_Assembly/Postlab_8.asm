@@ -1,4 +1,4 @@
-		INCLUDE <P18F4321.INC>
+		INCLUDE <P18F4321.INC>;This program is serves an introduction into interrupts, turning on an LED output when a comparator input is turned on.
 		CONFIG	OSC=INTIO2;
 		CONFIG 	WDT=OFF;
 		CONFIG 	LVP=OFF;
