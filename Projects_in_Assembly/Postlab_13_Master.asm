@@ -1,5 +1,5 @@
-		;Program for the master PIC18F4321 page 266
-				INCLUDE <P18F4321.INC>
+
+				INCLUDE <P18F4321.INC>;this code is for choosing a PIC18F4321 to be an SPI master in a master-slave network
 				ORG 	0x00 			; Reset
 				GOTO 	MAIN
 				ORG 	0x70
