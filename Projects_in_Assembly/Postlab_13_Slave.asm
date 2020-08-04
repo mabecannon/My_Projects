@@ -1,5 +1,5 @@
-; Program for the slave PIC18F4321 page 266
-		INCLUDE <P18F4321.INC>
+
+		INCLUDE <P18F4321.INC>; this copde sets the PIC18F4321 to be an SPI slave in a master-slave network
 		ORG 	0x00 			; Reset
 		GOTO 	MAIN
 		ORG 	0x100
