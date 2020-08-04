@@ -1,5 +1,5 @@
-		INCLUDE <P18F4321.INC>
-		ORG 	0x100 		; Start of the MAIN program using page 220 of 1st edition book
+		INCLUDE <P18F4321.INC>; A program for printing the binary value of a set of switches on an Liquid Crystal Display  
+		ORG 	0x100 		
 MAIN 	MOVLW 	0x10 		; Initialize STKPTR with arbitrary value of 0x10
 		MOVWF 	STKPTR
 		CLRF 	TRISD 		; PORTD is output
