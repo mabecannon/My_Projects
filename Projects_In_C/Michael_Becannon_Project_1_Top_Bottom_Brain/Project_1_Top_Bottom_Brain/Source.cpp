@@ -1,6 +1,7 @@
 /*
 This code will extract the data line by line from the excel file named 'Scores.csv" which has been preformatted
 to make this code functional; each new student is separated by every 5th new line character 
+The code will determine your top brain and bottom brain score according to an (outdated) psychological study published 
 */
 #include <fstream>
 #include <iostream>
