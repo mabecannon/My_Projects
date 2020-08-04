@@ -1,3 +1,2 @@
-This is where I store all my projects written in the glorious language of C;
-Be sure to check out both the .cpp AND the .h;
-Why not chuck in C# too
+This is where I store my programs in C. 
+NOTE: Navigate through the files until you find .cpp, .h, or .cs files, as this will contain the sweet, sweet code
