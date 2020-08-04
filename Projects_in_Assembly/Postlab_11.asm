@@ -1,4 +1,4 @@
-			INCLUDE <P18F4321.INC>
+			INCLUDE <P18F4321.INC>;This program is for creating PWM signals on the PIC18F using Capture and Compare Module 1 and Timer 3
 			ORG 	0x100 		
 MAIN 		MOVLW 	0x02
 			MOVWF 	CCP1CON	; Select compare mode, toggle CCP1 pin on match
