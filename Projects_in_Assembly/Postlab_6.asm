@@ -1,4 +1,4 @@
-INCLUDE <P18F4321.INC>
+INCLUDE <P18F4321.INC>; this program performs 3-bit addition from a 6-bit switch (upper 3-bits and lower 3-bits get masked off) and the result is displayed on a seven segment display 
 
 
 NUM1 EQU 0x10; first 3 bit num
