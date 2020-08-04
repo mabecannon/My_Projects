@@ -1,4 +1,4 @@
-INCLUDE <P18F4321.INC>
+INCLUDE <P18F4321.INC>; this program will cube a number then divide it by 4, then pushes it onto the stack(pointer)
 
 NUM EQU 0x10
 RESULT EQU 0x11
