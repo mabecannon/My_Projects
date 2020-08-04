@@ -53,7 +53,7 @@ public:
 int main()
 {
 	double top_sum=0, bot_sum=0, top_dev=0, bot_dev=0;
-	int num = 26;//27 student average
+	int num = 26;//26 student average
 	int sum_Q[20] = { 0 }, dev_Q[20] = { 0};
 	
 	fstream fin; 
